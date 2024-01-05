@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0-rectangle.py
-# Brennan D Baraban <375@holbertonschool.com>
-"""Defines a Rectangle class."""
+"""0-rectangle, built for Holberton project 0x08 task 0.
+"""
 
 
 class Rectangle:
-    """Represent a rectangle."""
-    pass
+    """Empty class per task instructions, will be built upon in later tasks.
+    """
+    passs
